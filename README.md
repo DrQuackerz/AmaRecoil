@@ -14,3 +14,6 @@ Step 2. Choose your base skin to change
 Step 3. Pick the skin you want and click "Change"
 
 (other people CAN NOT see your skin, only on your screen it will change)
+
+The only reason that this is a V2 and not V1 is because i made one as a closed beta for me and my buddy's.
+If i decide to release that one ill let ya'll know.
